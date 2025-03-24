@@ -1,9 +1,9 @@
 # GitHub Snoop
 
 **Track and Explore GitHub Users Effortlessly**
+![screencapture-github-snoop-vercel-app-my-page-2025-03-24-04_21_35](https://github.com/user-attachments/assets/008fce87-dcbb-4370-9356-0f4830f09925)
+![screencapture-github-snoop-vercel-app-my-page-2025-03-24-04_17_06](https://github.com/user-attachments/assets/1cdca704-ee68-4030-a593-ef30af825b1c)
 
-![screencapture-localhost-3000-my-page-2025-02-09-20_28_54](https://github.com/user-attachments/assets/2642e8bc-9ca4-46ae-a02b-5970e02dd477)
-![screencapture-localhost-3000-my-page-2025-02-09-20_28_26](https://github.com/user-attachments/assets/5d4886aa-28ab-42d4-b824-d680d09f6be9)
 
 🚀 **Live Demo:** [GitHub Snoop](https://github-snoop.vercel.app)  
 📂 **GitHub Repository:** [github.com/dinakajoy/github-snoop](https://github.com/dinakajoy/github-snoop)
